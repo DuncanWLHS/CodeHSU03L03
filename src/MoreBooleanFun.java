@@ -38,6 +38,7 @@ public class MoreBooleanFun {
 
         //further modification: prompt user for input and then print what they are able to do based on their age
         //and print their age on their next birthday
+        //added if-else statements
 
     }
 }
